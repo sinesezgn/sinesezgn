@@ -11,6 +11,12 @@
 
 ![My Skills](https://skillicons.dev/icons?i=py)
 
+<h2 align="leading">Social Media</h2>
+
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sine-sezgin-658a03200/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/siinesezgin/)
+
 <!--
 **sinesezgn/sinesezgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
