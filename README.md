@@ -3,7 +3,7 @@
 
 <h2 align="center">Dil & Framework</h2>
 
-![My Skills](https://skillicons.dev/icons?i=bootstrap,py)
+![My Skills](https://skillicons.dev/icons?i=py)
 
 <!--
 **sinesezgn/sinesezgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
